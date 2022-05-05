@@ -1,0 +1,14 @@
+Final Model: Random Forest Regressor
+
+Hyperparameters:
+n_estimators=100
+criterion='squared_error'
+max_depth=None
+min_samples_split=2
+min_samples_leaf=1
+
+Performance metrics:
+Explained variance: 0.986809
+Maximum error: 67249.28
+Mean squared_error: 1299812.435553
+R^2: 0.986806
